@@ -1,9 +1,6 @@
 # tkinter_toys
-Journeyman toolbox reference version 3 
-1/15/2018
-several stupid clerical errors corrected
-attribute and method tables completely reworked
-probably the last revision for a long long time
-for theis toolbox
-additional supporting materials being added
-to www.wikipython.com
+Journeyman toolbox reference version JR3d 
+a couple of tiny corrections - considering
+expansion of ttk or possible a whole new toolbox
+but more and more I see it as a lazy man's out to 
+actually learning tkinter.
